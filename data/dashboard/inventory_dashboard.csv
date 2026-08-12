@@ -1,0 +1,2 @@
+Product,Average_Daily_Demand,Lead_Time_Days,Safety_Stock,Reorder_Point,Forecast_30_Day_Demand,Assumed_Current_Stock,Projected_30_Day_Stock,Recommendation
+Selected Forecast Product,221.6859002988124,7,1672.155268401939,3223.956570493626,6650.577008964372,1000,-5650.577008964372,Reorder immediately
